@@ -1,0 +1,31 @@
+Comparação dos algoritmos em nanosegundos.
+
+1000.1
+
+Counting: 6 133 303
+Radix:    1 721 945
+
+1000.2
+
+Counting: 131 823 423
+Radix:    2 320 367
+
+10000.1
+
+Counting: 9 781 173
+Radix:    11 592 410
+
+10000.2
+
+Counting: 268 464 933
+Radix:    14 934 311
+
+100000.1
+
+Counting: 18 763 632
+Radix:    50 311 601
+
+100000.2
+
+Counting: 162 410 887
+Radix:    91 581 351
